@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{169D1A13-81E4-4ACA-A5C2-02884400483B}|Default">
+  <MonoDevelop.Ide.ItemProperties.sing.song PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sing.song/Singer.cs">
+    <Files>
+      <File FileName="sing.song/Program.cs" Line="1" Column="1" />
+      <File FileName="sing.song/Singer.cs" Line="11" Column="34" />
+      <File FileName="sing.song/Song.cs" Line="53" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sing.song" expanded="True">
+            <Node name="sing.song" expanded="True">
+              <Node name="Singer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

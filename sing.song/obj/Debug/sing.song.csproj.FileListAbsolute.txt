@@ -1,0 +1,2 @@
+/Users/xamyak/Desktop/sing.song/sing.song/obj/Debug/sing.song.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/sing.song/sing.song/obj/Debug/sing.song.csproj.CoreCompileInputs.cache
